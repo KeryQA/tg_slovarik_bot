@@ -1,7 +1,5 @@
 # tg_slovarik_bot
-Телеграмм бот, который содержит словарик для QA Engineer.
-
-<h2>Телеграм бот «Словарик». С расшифровкой аббревиатур</h2>
+<h2>Телеграмм бот, который содержит словарик для QA Engineer.</h2>
 
 > **Статус проекта:**
 >
@@ -14,11 +12,11 @@
 
 Стартовое меню:
 
-![image]<img width="765" height="841" alt="bot_menuu" src="https://github.com/user-attachments/assets/9ee50510-cb79-451b-8576-e5cc9017e497" />
+<img width="765" height="841" alt="bot_menuu" src="https://github.com/user-attachments/assets/9ee50510-cb79-451b-8576-e5cc9017e497" />
 
 После отправки запроса:
 
-![image]<img width="764" height="841" alt="tg_bot" src="https://github.com/user-attachments/assets/25d9cb3c-04a3-4b3b-abb5-ccba153ae1c2" />
+<img width="764" height="841" alt="tg_bot" src="https://github.com/user-attachments/assets/25d9cb3c-04a3-4b3b-abb5-ccba153ae1c2" />
 
 ## 💻 Технологии
 
